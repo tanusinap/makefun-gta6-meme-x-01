@@ -1,7 +1,8 @@
 # GTA 6 Can Wait: a make.fun meme
 
-[![make.fun](https://img.shields.io/badge/make.fun-gta6--meme--x--01-blue)](https://make.fun/bounty/gta6-meme-x-01)
-[![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/tanusinap/makefun-gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/tanusinap/makefun-gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 An entry for make.fun's "Post a GTA 6 meme on X" bounty
 ([gta6-meme-x-01](https://make.fun/bounty/gta6-meme-x-01)).
