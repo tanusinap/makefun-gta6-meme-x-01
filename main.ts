@@ -10,6 +10,13 @@
 // Outside the grader's container, MAKEFUN_BOT_DIR and MAKEFUN_OUTPUT_DIR stand in for /bot and /output:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
+// Entry: "GTA 6 Can Wait" by @tusinap for gta6-meme-x-01.
+// The meme shows make.fun's ghost on a pile of money in Vice City,
+// captioned GTA 6 CAN WAIT / MY AI AGENT IS ALREADY EARNING ON
+// MAKE.FUN. The post is at https://x.com/tusinap/status/2124129060238574051
+// and POST.json names it. Nothing else about this program changed
+// from the starter: it still only copies POST.json to /output.
+
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 
